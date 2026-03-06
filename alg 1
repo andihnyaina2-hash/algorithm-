@@ -7,13 +7,13 @@ Variable: a reel
           b reel
           x reel
 Debut   : 
-         AFFICHAGE "Entre la valeur de a "
+         AFFICHAGE "Entre la valeur de a:"
          LIRE (a)
 
-         AFFICHAGE "Entre la valeur de b"
+         AFFICHAGE "Entre la valeur de b:"
          LIRE (b)
 
         x <- -(b/a) 
-         AFFICHAGE "Valeur de x" 
+         AFFICHAGE "Valeur de x:" 
 
 Fin
