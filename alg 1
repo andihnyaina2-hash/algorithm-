@@ -1,0 +1,17 @@
+*algorithm 1*
+*Resolution d'une equation au premier degree)
+
+ax+b=0
+*soit x=-(b/a)
+Variable: a reel 
+          b reel
+          x reel
+Debut   : 
+         AFFICHAGE "Entre la valeur de a "
+         LIRE (a)
+
+         AFFICHAGE "Entre la valeur de b"
+         LIRE (b)
+
+        x <- -(b/a) 
+Fin 
