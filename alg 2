@@ -1,0 +1,15 @@
+alg 2
+*Aire d'un triangle*
+A= (B*h)/2
+
+Variable : B Reel
+           h Reel
+
+Debut    : AFFICHAGE "Entre la valeur de B:"
+           LIRE(B)
+
+           AFFICHAGE "Entre la valeur de h:"
+           LIRE(h)
+
+           A<-(B*h)/2
+           AFFICHAGE "Valeur de A:"
