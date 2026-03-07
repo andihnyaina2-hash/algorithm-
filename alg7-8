@@ -19,9 +19,9 @@ Fin
 
  Alg 8
 *Somme de 2 fonctions a 2 variable*
-f=x+3sqrd(y) +2 
-g=cb(x)+sqrd(y)+y+5
-c= f+g
+*f=x+3sqrd(y) +2 *
+*g=cb(x)+sqrd(y)+y+5*
+*c= f+g*
 
 Variable: x Reel
           y Entier
