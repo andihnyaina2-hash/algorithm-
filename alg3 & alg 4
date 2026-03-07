@@ -32,3 +32,6 @@ Debut : AFFICHAGE"Entrez la valeur de m:"
 
         F<-m*a 
         AFFICHAGE"La Valeur de F:"
+
+Fin
+
