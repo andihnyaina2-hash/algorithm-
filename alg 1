@@ -2,7 +2,7 @@
 *Resolution d'une equation au premier degree)
 
 ax+b=0
-*soit x=-(b/a)
+*soit x=-(b/a)*
 Variable: a reel 
           b reel
           x reel
