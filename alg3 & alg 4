@@ -1,6 +1,6 @@
 alg 3 
 *perimetre d'un rectangle*
-P=2(L+l)
+*P=2(L+l)*
 
 Variable: L reel
           l reel
