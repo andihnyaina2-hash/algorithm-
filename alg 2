@@ -6,11 +6,13 @@ Variable : B Reel
            h Reel
            A Reel
 
-Debut    : AFFICHAGE "Entre la valeur de B:"
+Debut    : AFFICHER"Entre la valeur de B:"
            LIRE(B)
 
-           AFFICHAGE "Entre la valeur de h:"
+           AFFICHER"Entre la valeur de h:"
            LIRE(h)
 
            A<-(B*h)/2
-           AFFICHAGE "Valeur de A:"
+           AFFICHER"Valeur de A:"
+
+Fin
