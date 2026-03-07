@@ -1,6 +1,6 @@
 Alg 5
 *moment d'inertie d'un  tige de masse M de longueur l et d' un solide ponctuel S de masse m*
-I=(M*sqrd(L))/12 + m*sqrd(L)
+*I=(M*sqrd(L))/12 + m*sqrd(L)*
 
 Variable:  M reel
            L reel
@@ -22,7 +22,7 @@ FIN
 
 ALG 6
 *equation cartesienne du cercle le rayon en particulier*
-sqrd(r)= sqrd(x+a)+sqrd(y+b)
+*sqrd(r)= sqrd(x+a)+sqrd(y+b)*
 
 Variable: x reel
           a reel
