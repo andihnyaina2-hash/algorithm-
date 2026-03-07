@@ -7,17 +7,17 @@ Variable : x Reel
            z Reel
            f Reel
 
-Debut    : AFFICHAGE"Inserer une valeur de x:"
+Debut    : AFFICHER"Inserer une valeur de x:"
            LIRE(x)
 
-           AFFICHAGE"Inserer une valeur de y:"
+           AFFICHER"Inserer une valeur de y:"
            LIRE(y)
 
-           AFFICHAGE"Inserer une valeur de z:"
+           AFFICHER"Inserer une valeur de z:"
            LIRE(z)
 
            f<-2xy+cb(z)+sqrd(y)+2z+5
-           AFFICHAGE"valeur de f:"
+           AFFICHER"valeur de f:"
 
 Fin
 
@@ -31,15 +31,15 @@ Variable : m Reel
            M Reel
            OG2 Reel
 
-Debut   : AFFICHAGE"Entrer la valeur de m:"
+Debut   : AFFICHER"Entrer la valeur de m:"
           LIRE(m)
 
-          AFFICHAGE"Entrer la valeur de OG1:"
+          AFFICHER"Entrer la valeur de OG1:"
           LIRE(OG1)
 
-          AFFICHAGE "Entrer la valeur de M:"
+          AFFICHER "Entrer la valeur de M:"
           LIRE(M)
 
           OG<-[mOG1+MOG2]/(m+M)
-          AFFICHAGE"valeur de OG
-FIN
+          AFFICHER"valeur de OG:"
+Fin
