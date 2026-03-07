@@ -4,6 +4,7 @@ A= (B*h)/2
 
 Variable : B Reel
            h Reel
+           A Reel
 
 Debut    : AFFICHAGE "Entre la valeur de B:"
            LIRE(B)
