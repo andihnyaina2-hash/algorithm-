@@ -1,7 +1,7 @@
 ALg 7
 *fonction a 2 variable *
 *sqrd(x) est x au carre,cb(x) est x au cube*
-f=sqrd(x)+10x+cb(y)+3sqrd(y)+6
+*f=sqrd(x)+10x+cb(y)+3sqrd(y)+6*
 
 Variable : x Reel
            y Reel
