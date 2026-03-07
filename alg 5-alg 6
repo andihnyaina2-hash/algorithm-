@@ -7,16 +7,16 @@ Variable:  M reel
            m reel
            I reel
 
-Debut   : AFFICHAGE:"Inserer une valeur de M""
+Debut   : AFFICHER"Inserer une valeur de M""
           LIRE(M)
 
-          AFFICHAGE:"Inserer une valeur de L""
+          AFFICHER"Inserer une valeur de L""
           LIRE(L)
 
-          AFFICHAGE:"Inserer une valeur de m:"
+          AFFICHER"Inserer une valeur de m:"
 
           I<-(M*L^2)/12 + m*L^2
-          AFFICHAGE:"Valeur de I:"
+          AFFICHER"Valeur de I:"
 
 FIN
 
@@ -30,20 +30,20 @@ Variable: x reel
           b reel
           r reel
 
-Debut   : AFFICHAGE "Entrez la valeur de x:"
+Debut   : AFFICHER"Entrez la valeur de x:"
           LIRE(x)
 
-          AFFICHAGE "Entrez la valeur de a:"
+          AFFICHER"Entrez la valeur de a:"
           LIRE(a)
 
-          AFFICHAGE "Entrez la valeur de y:"
+          AFFICHER"Entrez la valeur de y:"
           LIRE(y)
 
-          AFFICHAGE "Entrez la valeur de b:"
+          AFFICHER"Entrez la valeur de b:"
           LIRE(b)
 
           sqrd(r)<-sqrd(x+a)+sqrd(y+b)
-          AFFICHAGE " Valeur de sqrd(r):"
+          AFFICHER" Valeur de sqrd(r):"
 
 Fin
 
