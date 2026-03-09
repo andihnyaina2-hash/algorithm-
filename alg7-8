@@ -7,14 +7,14 @@ Variable : x Reel
            y Reel
            f Reel
 
- Debut   : AFFICHER"Entrez la valeur de x:"
+ Debut   : AFFICHAGE"Entrez la valeur de x:"
            LIRE(x)
 
-           AFFICHER"Entrer la valeur de y"
+           AFFICHAGE"Entrer la valeur de y"
            LIRE(y)
 
            f<-sqrd(x)+10x+cb(y)+3sqrd(y)+6
-           AFFICHER"Valeur de f:"
+           AFFICHAGE"Valeur de f:"
 
 Fin
 
@@ -30,10 +30,10 @@ Variable: x Reel
           g Reel
           c Reel
 
-Debut   : AFFICHER"Inserer la valeur de x:"
+Debut   : AFFICHAGE"Inserer la valeur de x:"
           LIRE(x)
 
-          AFFICHER"Inserer la valeur de y:"
+          AFFICHAGE"Inserer la valeur de y:"
           LIRE(y)
 
            f<-x+3sqrd(y) +2 
@@ -43,7 +43,7 @@ Debut   : AFFICHER"Inserer la valeur de x:"
            AFFICHER" valeur de g:"
 
            c<-f+g
-           AFFICHER"Valeur de c:"
+           AFFICHAGE"Valeur de c:"
 
 FIN
           
