@@ -7,13 +7,13 @@ Variable: a reel
           b reel
           x reel
 Debut   : 
-         AFFICHER "Entrer la valeur de a:"
+         AFFICHAGE "Entrer la valeur de a:"
          LIRE (a)
 
-         AFFICHER "Entrer la valeur de b:"
+         AFFICHAGE "Entrer la valeur de b:"
          LIRE (b)
 
         x <- -(b/a) 
-         AFFICHER"Valeur de x:" 
+         AFFICHAGE"Valeur de x:" 
 
 Fin
