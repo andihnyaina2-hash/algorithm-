@@ -6,14 +6,14 @@ Variable: L reel
           l reel
           P reel
 
-Debut   : AFFICHER"Inserer la Valeur de L:"
+Debut   : AFFICHAGE"Inserer la Valeur de L:"
           LIRE(L)
 
-          AFFICHER"Inserer la Valeur de l:"
+          AFFICHAGE"Inserer la Valeur de l:"
           LIRE(l)
 
           P<-2*(L+l)
-          AFFICHER"Valeur de P:"
+          AFFICHAGE"Valeur de P:"
 
 FIN
 
@@ -25,13 +25,13 @@ Variable: m reel
           a reel
           F reel
 
-Debut : AFFICHER"Entrez la valeur de m:"
+Debut : AFFICHAGE"Entrez la valeur de m:"
         LIRE(m)
 
-        AFFICHER"Entrez la valeur de a:"
+        AFFICHAGE"Entrez la valeur de a:"
 
         F<-m*a 
-        AFFICHER"La Valeur de F:"
+        AFFICHAGE"La Valeur de F:"
 
 Fin
 
