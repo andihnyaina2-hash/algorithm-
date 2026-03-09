@@ -12,7 +12,7 @@ Debut   : AFFICHER"Inserer la Valeur de L:"
           AFFICHER"Inserer la Valeur de l:"
           LIRE(l)
 
-          P<-2(L+l)
+          P<-2*(L+l)
           AFFICHER"Valeur de P:"
 
 FIN
