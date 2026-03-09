@@ -6,13 +6,13 @@ Variable : B Reel
            h Reel
            A Reel
 
-Debut    : AFFICHER"Entrer la valeur de B:"
+Debut    : AFFICHAGE"Entrer la valeur de B:"
            LIRE(B)
 
-           AFFICHER"Entrer la valeur de h:"
+           AFFICHAGE"Entrer la valeur de h:"
            LIRE(h)
 
            A<-(B*h)/2
-           AFFICHER"Valeur de A:"
+           AFFICHAGE"Valeur de A:"
 
 Fin
